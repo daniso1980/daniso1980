@@ -1,0 +1,38 @@
+@charset "utf-8";
+#contenedor {
+	background-color: #FFF;
+	height: auto;
+	width: 1205px;
+	margin-top: 30px;
+	margin-right: auto;
+	margin-bottom: auto;
+	margin-left: auto;
+}
+#contenedor #header {
+	background-image: url(imagenes/header.jpg);
+	height: 159px;
+	width: 1205px;
+}
+#contenedor #navbar {
+	height: 30px;
+	width: 1205px;
+}
+#contenedor #content {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 16px;
+	font-weight: normal;
+	color: #00F;
+	background-color: #FFF;
+	text-align: left;
+	height: auto;
+	width: 1205px;
+}
+#contenedor #footer {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #FFF;
+	background-color: #000;
+	text-align: right;
+	height: 100px;
+	width: 1205px;
+}
